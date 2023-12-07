@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Diego
+Rut: 20.415.358-2
